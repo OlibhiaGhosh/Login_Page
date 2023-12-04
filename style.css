@@ -14,8 +14,8 @@ div {
     border-color: black;
     font-size: 18px;
     padding: 20px;
-    margin-left: 550px;
-    margin-top: 30px;
+    margin-left: 35vw;
+    margin-top: 5vh;
 
 
 }
@@ -44,13 +44,13 @@ input.box {
    
 }
 .foottext{
-    margin-left: 650px;
+    margin-left: 41vw;
 
 }
 #languageimg{
     width: 38px;
     height: 32px;
-    margin-left: 600px
+    margin-left:38vw;
 }
 .remember {
     font-size: 16px;
